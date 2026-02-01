@@ -131,11 +131,11 @@ const Header = () => {
             </button>
           </Link>
 
-          <Link to="/Queueing" onClick={() => setIsMenuOpen(false)}>
+          {/* <Link to="/Queueing" onClick={() => setIsMenuOpen(false)}>
             <button className='w-full h-fit px-2 py-2 rounded-md bg-pink-900 text-white active:scale-95 hover:bg-pink-700 text-md transition-colors'>
               Queuing Models
             </button>
-          </Link>
+          </Link> */}
         </div>
       )}
     </div>
